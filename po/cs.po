@@ -50,7 +50,7 @@ msgid "Log in succeeded. You'll see new things from %s in a couple of minutes."
 msgstr "Přihlášení proběhlo úspěšně. Za pár minut uvidíte nové položky z %s."
 
 #: ../src/bisho-pane-username.c:58
-#, fuzzy, c-format
+#, c-format
 msgid "Sorry, we can't log into %s."
 msgstr "Je nám líto, ale nemůžeme se přihlásit do %s"
 
@@ -65,7 +65,6 @@ msgstr "Aktualizace"
 
 #: ../src/bisho-pane-username.c:181 ../src/bisho-pane-username.c:185
 #: ../src/bisho-pane-username.c:257
-#, fuzzy
 msgid "Log in"
 msgstr "Přihlásit se"
 
